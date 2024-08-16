@@ -160,7 +160,7 @@ const Home = () => {
         </HeroSection>
         </div>
         <div className='halfTow'>
-        <GiftCardImage src="/gift-card-6967322-5690089.png" alt="Gift Card" />
+        <GiftCardImage src="https://cdn3d.iconscout.com/3d/premium/thumb/gift-card-6967322-5690089.png" alt="Gift Card" />
         </div>
         </div>
       </HomeContainer>
