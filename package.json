@@ -1,7 +1,7 @@
 {
   "name": "ecommerce",
   "version": "0.1.0",
-  "homepage":" http://tyb-hue.github.io/Gift-Cards-Store/",
+  "homepage": "https://TYB-hue.github.io/Gift-Cards-Store",
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.16.7",
     "@paypal/react-paypal-js": "^8.5.0",
@@ -23,8 +23,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+   "predeploy": "npm run build",
+   "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
