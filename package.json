@@ -1,7 +1,7 @@
 {
   "name": "ecommerce",
   "version": "0.1.0",
-  "homepage":"https://your-username.github.io/Gift-Cards-Store",
+  "homepage":" http://tyb-hue.github.io/Gift-Cards-Store/",
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.16.7",
     "@paypal/react-paypal-js": "^8.5.0",
